@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codigo_penal_colombiano>
+    <titulo_cuatro>
+        <nombre>DELITOS SEXUALES</nombre>
+        <descripcion>Delitos contra la Libertad, Integridad y Formación Sexuales</descripcion>
+        
+        <categorias>
+            <categoria id="1">
+                <nombre>DELITOS CONTRA LA LIBERTAD SEXUAL</nombre>
+                <delitos>
+                    <delito id="1.1">
+                        <articulo>Art. 205</articulo>
+                        <nombre>ACCESO CARNAL VIOLENTO</nombre>
+                        <descripcion>Acceso carnal mediante violencia sobre la persona.</descripcion>
+                    </delito>
+                    <delito id="1.2">
+                        <articulo>Art. 206</articulo>
+                        <nombre>ACTO SEXUAL VIOLENTO</nombre>
+                        <descripcion>Actos sexuales distintos al acceso carnal, mediante violencia sobre la persona.</descripcion>
+                    </delito>
+                    <delito id="1.3">
+                        <articulo>Art. 207</articulo>
+                        <nombre>ACCESO CARNAL O ACTO SEXUAL EN PERSONA PUESTA EN INCAPACIDAD DE RESISTIR</nombre>
+                        <descripcion>Aprovechamiento del estado de inconsciencia, enfermedad, intoxicación o cualquier otra causa que anule o disminuya la capacidad de resistir.</descripcion>
+                    </delito>
+                    <delito id="1.4">
+                        <articulo>Art. 210A</articulo>
+                        <nombre>ACOSO SEXUAL</nombre>
+                        <descripcion>Hostigamiento o favoritismo sexual no deseado, verbal, no verbal o físico, que cause perjuicio o ponga en riesgo el empleo, cargo o actividad.</descripcion>
+                    </delito>
+                </delitos>
+            </categoria>
+
+            <categoria id="2">
+                <nombre>DELITOS CONTRA LA INTEGRIDAD Y FORMACIÓN SEXUAL</nombre>
+                <delitos>
+                    <delito id="2.1">
+                        <articulo>Art. 208</articulo>
+                        <nombre>ACCESO CARNAL ABUSIVO CON MENOR DE 14 AÑOS</nombre>
+                        <descripcion>Realizar acceso carnal con menor de 14 años, sin que medie violencia.</descripcion>
+                    </delito>
+                    <delito id="2.2">
+                        <articulo>Art. 209</articulo>
+                        <nombre>ACTOS SEXUALES CON MENOR DE 14 AÑOS</nombre>
+                        <descripcion>Realizar actos sexuales diferentes al acceso carnal con menor de 14 años.</descripcion>
+                    </delito>
+                    <delito id="2.3">
+                        <articulo>Art. 210</articulo>
+                        <nombre>ACCESO CARNAL O ACTO SEXUAL ABUSIVO CON INCAPAZ DE RESISTIR</nombre>
+                        <descripcion>Realizar acceso carnal o acto sexual con persona que no tenga la capacidad de comprender el hecho o de resistirlo.</descripcion>
+                    </delito>
+                    <delito id="2.4">
+                        <articulo>Art. 211</articulo>
+                        <nombre>CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA</nombre>
+                        <descripcion>Aumentan la pena cuando el delito se cometa: con ocasión del parentesco, relación de autoridad o confianza, en concurso de varias personas, con sevicia, o mediante amenaza con armas, entre otras.</descripcion>
+                    </delito>
+                </delitos>
+            </categoria>
+
+            <categoria id="3">
+                <nombre>EXPLOTACIÓN SEXUAL Y PROTECCIÓN DE MENORES</nombre>
+                <delitos>
+                    <delito id="3.1">
+                        <articulo>Art. 213</articulo>
+                        <nombre>INDUCCIÓN A LA PROSTITUCIÓN</nombre>
+                        <descripcion>Persuadir, inducir o convencer a otra persona a dedicarse a la prostitución.</descripcion>
+                    </delito>
+                    <delito id="3.2">
+                        <articulo>Art. 214</articulo>
+                        <nombre>CONSTREÑIMIENTO A LA PROSTITUCIÓN</nombre>
+                        <descripcion>Obligar a una persona a dedicarse a la prostitución, mediante violencia, amenaza o cualquier otra forma de coacción.</descripcion>
+                    </delito>
+                    <delito id="3.3">
+                        <articulo>Art. 213A</articulo>
+                        <nombre>PROXENETISMO CON MENOR DE EDAD</nombre>
+                        <descripcion>Promover, facilitar o favorecer la prostitución de persona menor de 18 años.</descripcion>
+                    </delito>
+                    <delito id="3.4">
+                        <articulo>Art. 217</articulo>
+                        <nombre>ESTÍMULO A LA PROSTITUCIÓN DE MENORES</nombre>
+                        <descripcion>Estimular, favorecer o promocionar la prostitución de niños, niñas o adolescentes.</descripcion>
+                    </delito>
+                    <delito id="3.5">
+                        <articulo>Art. 217A</articulo>
+                        <nombre>DEMANDA DE EXPLOTACIÓN SEXUAL COMERCIAL DE MENOR DE 18 AÑOS</nombre>
+                        <descripcion>Solicitar, requerir o adquirir servicios sexuales de persona menor de 18 años, a cambio de cualquier retribución.</descripcion>
+                    </delito>
+                    <delito id="3.6">
+                        <articulo>Art. 218</articulo>
+                        <nombre>PORNOGRAFÍA CON PERSONAS MENORES DE 18 AÑOS</nombre>
+                        <descripcion>Producir, fabricar, distribuir, comercializar, importar, exportar, ofrecer, adquirir, poseer o almacenar material pornográfico con personas menores de 18 años.</descripcion>
+                    </delito>
+                </delitos>
+            </categoria>
+
+            <categoria id="4">
+                <nombre>TURISMO SEXUAL</nombre>
+                <delitos>
+                    <delito id="4.1">
+                        <articulo>Art. 219</articulo>
+                        <nombre>TURISMO SEXUAL</nombre>
+                        <descripcion>Viajar al exterior con el propósito de realizar actos sexuales remunerados.</descripcion>
+                    </delito>
+                    <delito id="4.2">
+                        <articulo>Art. 219A</articulo>
+                        <nombre>TURISMO SEXUAL CON MENORES DE EDAD</nombre>
+                        <descripcion>Viajar al exterior con el propósito de realizar actos sexuales con personas menores de edad.</descripcion>
+                    </delito>
+                </delitos>
+            </categoria>
+        </categorias>
+
+        <aspectos_generales id="5">
+            <nombre>ASPECTOS GENERALES</nombre>
+            <item id="5.1">
+                <nombre>BIEN JURÍDICO PROTEGIDO</nombre>
+                <descripcion>La libertad, integridad y formación sexual de las personas, en especial de niños, niñas y adolescentes.</descripcion>
+            </item>
+            <item id="5.2">
+                <nombre>SUJETOS DE ESPECIAL PROTECCIÓN</nombre>
+                <descripcion>Niños, niñas, adolescentes, personas incapaces de resistir y personas en condición de vulnerabilidad.</descripcion>
+            </item>
+            <item id="5.3">
+                <nombre>SANCIONES</nombre>
+                <descripcion>Las penas varían según el delito y las circunstancias de agravación punitiva contempladas en la ley.</descripcion>
+            </item>
+        </aspectos_generales>
+
+        <nota>Este flujograma representa la clasificación de los delitos sexuales según el Título IV de la Ley 599 de 2000 (Código Penal Colombiano). Para la aplicación de cada tipo penal, se deben analizar los elementos jurídicos, modalidades y circunstancias específicas del caso concreto.</nota>
+    </titulo_cuatro>
+</codigo_penal_colombiano>
